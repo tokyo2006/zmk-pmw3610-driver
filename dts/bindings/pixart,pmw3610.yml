@@ -21,4 +21,7 @@ properties:
     required: true
   y-input-code:
     type: int
-    required: true
+    required: true  
+  automouse-layer:
+    type: int
+    default: -1
